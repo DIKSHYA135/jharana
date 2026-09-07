@@ -1,3 +1,6 @@
 Hello Git
 Hello my friend
 I am learning git 
+helloo 
+how are you my friend 
+git is a version control system
